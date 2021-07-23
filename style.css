@@ -168,6 +168,12 @@ li {
   gap: 10px;
 }
 
+.my-sites {
+  text-align: center;
+}
+.anchor-sites {
+  text-align: center;
+}
 .button {
   padding: 6px 20px;
   margin-bottom: 30px;
