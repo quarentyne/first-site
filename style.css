@@ -158,6 +158,16 @@ body {
   margin: 0 0 24px;
 }
 
+li {
+  list-style-type: none;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
 .button {
   padding: 6px 20px;
   margin-bottom: 30px;
